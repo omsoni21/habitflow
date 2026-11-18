@@ -16,3 +16,7 @@
 local.properties
 .env
 debug.keystore
+
+# Un-ignore debug APK for direct download
+!app/build/outputs/apk/debug/app-debug.apk
+
