@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">HabitFlow</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_habits">Habits</string>
+    <string name="nav_calendar">Calendar</string>
+    <string name="nav_statistics">Stats</string>
+    <string name="nav_profile">Profile</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_tagline">Build small daily rituals that compound into remarkable change.</string>
+    <string name="onboarding_get_started">Get Started</string>
+    <string name="onboarding_continue">Continue</string>
+    <string name="onboarding_finish">Start My Journey</string>
+    <string name="onboarding_goals_title">What are your main goals?</string>
+    <string name="onboarding_goals_subtitle">Select one or more focus areas. We\'ll personalize your experience.</string>
+    <string name="onboarding_reminder_title">Set your daily rhythm</string>
+    <string name="onboarding_reminder_subtitle">Choose your name and preferred reminder time to stay consistent.</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard_today_habits">Today\'s Habits</string>
+    <string name="dashboard_empty_title">No habits scheduled today</string>
+    <string name="dashboard_empty_subtitle">Tap + to build your first daily ritual and start tracking streaks.</string>
+    <string name="dashboard_add_habit">Add Habit</string>
+
+    <!-- Notifications -->
+    <string name="notification_channel_name">Habit Reminders</string>
+    <string name="notification_channel_desc">Daily and scheduled reminders for your active habits</string>
+
+    <!-- Actions -->
+    <string name="action_save">Save Habit</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_pause">Pause</string>
+    <string name="action_resume">Resume</string>
+    <string name="action_archive">Archive</string>
+    <string name="action_unarchive">Unarchive</string>
+
+    <!-- Home Screen Widget -->
+    <string name="widget_name">HabitFlow Daily Tracker</string>
+    <string name="widget_description">Check off today\'s habits and track your daily progress &amp; streaks right from your home screen.</string>
+    <string name="widget_title_today">Today\'s Habits</string>
+    <string name="widget_empty_title">No habits scheduled today</string>
+    <string name="widget_empty_subtitle">Tap to open HabitFlow and add a daily ritual</string>
+    <string name="widget_refresh_cd">Refresh daily habits widget</string>
+    <string name="widget_crest_cd">HabitFlow icon</string>
+    <string name="widget_toggle_cd">Toggle habit progress</string>
+</resources>

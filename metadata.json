@@ -1,0 +1,6 @@
+{
+  "name": "HabitFlow",
+  "description": "Smart offline-first habit tracker with daily progress rings, streak analytics, interactive calendar, achievements, and smart reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

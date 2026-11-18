@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="widget_bg">#FFF9FAFE</color>
+    <color name="widget_border">#FFE0E7FF</color>
+    <color name="widget_header_badge_bg">#FFE0E7FF</color>
+    <color name="widget_title">#FF111827</color>
+    <color name="widget_subtitle">#FF525870</color>
+    <color name="widget_primary">#FF4F46E5</color>
+    <color name="widget_primary_container">#FFE0E7FF</color>
+    <color name="widget_on_primary_container">#FF1E1B4B</color>
+    <color name="widget_item_bg">#FFFFFFFF</color>
+    <color name="widget_item_completed_bg">#FFECFDF5</color>
+    <color name="widget_item_border">#FFE5E8F3</color>
+    <color name="widget_item_completed_border">#FFA7F3D0</color>
+    <color name="widget_progress_track">#FFE5E8F3</color>
+    <color name="widget_streak_bg">#FFFEF3C7</color>
+    <color name="widget_streak_text">#FFB45309</color>
+    <color name="widget_success">#FF10B981</color>
+</resources>
