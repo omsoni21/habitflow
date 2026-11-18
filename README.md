@@ -21,7 +21,6 @@ Click the link below to download the latest compiled **Debug APK** directly to y
 
 ### 🚀 [**Click Here to Download HabitFlow APK (`app-debug.apk`)**](https://raw.githubusercontent.com/omsoni21/habitflow/main/app/build/outputs/apk/debug/app-debug.apk)
 
-*Alternative link: [GitHub Direct Raw APK Link](https://github.com/omsoni21/habitflow/raw/main/app/build/outputs/apk/debug/app-debug.apk)*
 
 </div>
 
